@@ -16,6 +16,11 @@
 **Short preview video of this app available on [my blog](http://mikemdev40.blogspot.com).**
 
 ---
+
+Open source note: in order to establish a fully running version of this app in Xcode, you will need to register and use your own Google Places API Web Service API key, which you can sign up for here https://console.developers.google.com (enter it in the Constants.swift file); note that you need to create a "server key."
+
+---
+
 **Overview**
 
 **_Never again forget that great entree you ordered for dinner, and always have a restaurant to recommend to friends!_**
